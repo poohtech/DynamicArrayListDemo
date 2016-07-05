@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/pre-dexed/debug/classes-f169a44f582374df98160a5c610377aeee27fbad.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/pre-dexed/debug/classes-99ee3c0e6c954456b9cf3b24eb867865d03e2b26.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-4d0f68a5792894fd132aaf33f430942e340c46e7.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/pre-dexed/debug/classes-6161da316f76d66579c3c0b47061eaf47947deb7.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/pre-dexed/debug/classes-12da3254dcabf33b6e389d2a6cf24eddea864533.jar" />
+    </item>
+    <item
+        jar="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/pre-dexed/debug/classes-054b5083cd16b8cb8f931c483948539d8651d724.jar" />
+    </item>
+    <item
+        jar="/home/user/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/user/AndroidStudioProjects/DynamicArrayListDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-e21fdc2a561bf09b4bcd52f441a08edce50e9dc2.jar" />
+    </item>
+
+</items>
